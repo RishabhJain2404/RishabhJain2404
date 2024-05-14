@@ -6,8 +6,8 @@
 💭 I'm constantly seeking opportunities to learn and grow as a developer.<br/>
 ✉️ You can find me on these platforms:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabhjain2404/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rishabh2404jain@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/rishabhjain2404/)](https://linkedin.com/in/rishabhjain2404/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rishabh2404jain@gmail.com)](mailto:rishabh2404jain@gmail.com)
 
 
 # ⚔️ Tech Stack
