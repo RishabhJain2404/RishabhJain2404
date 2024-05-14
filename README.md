@@ -5,7 +5,6 @@
 🌷 To further enhance my frontend development skills, I'm actively learning Next.js, which leverages React to create server-rendered and statically generated web applications. This combination allows me to build performant and SEO-friendly web experiences.<br/>
 💭 I'm constantly seeking opportunities to learn and grow as a developer.<br/> 
 
-![](https://github-readme-stats.vercel.app/api?username=RishabhJain2404&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 # 💻 Tech Stack
 
@@ -21,3 +20,24 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+# My stats
+
+![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RishabhJain2404&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RishabhJain2404&layout=compact&show_icons=true&theme=dark)](https://github.com/RishabhJain2404/github-readme-stats)
+
+# My projects
+
+Here are some of my projects that I'm proud of:
+
+- [Taskify](https://github.com/RishabhJain2404/taskify-app) - Built Taskify, a dynamic project management app inspired by Trello. Users can collaborate in workspaces, organize tasks across boards and lists (with drag-and-drop!), and manage individual tasks (create, edit, delete, reorder) - all powered by Next.js, React, TypeScript, and Prisma.
+- [Blogify](https://github.com/RishabhJain2404/blogify-mern-app) - This project demonstrates a full-stack blog application built with the MERN stack (MongoDB, Express, React, Node.js). It boasts a user-friendly interface, robust functionalities, and secure user management.
+- [SumZ](https://github.com/RishabhJain2404/AI-Article-Summarizer-App) - This project is an AI Article Summarizer web application created with ReactJS, Tailwind CSS, Redux Toolkit (RTK), and integrated with Rapid API. This app allows users to input URLs and utilizes AI-powered text analysis to provide concise article summaries, enhancing the reading experience. It offers a seamless and efficient solution for extracting key information from articles and documents.
+- <strong>More projects to be updated soon...</strong>
+
+# Connect with me
+
+You can find me on these platforms:
+
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rishabhjain2404/)](https://www.linkedin.com/in/rishabhjain2404/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&link=mailto:rishabh2404jain@gmail.com)](mailto:rishabh2404jain@gmail.com)
