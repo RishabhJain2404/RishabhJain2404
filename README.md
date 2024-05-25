@@ -32,8 +32,28 @@
 
 # ⭐ My stats
 
-![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RishabhJain2404&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RishabhJain2404&layout=compact&show_icons=true&theme=dark)](https://github.com/RishabhJain2404/github-readme-stats)
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=RishabhJain2404&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+
+---
+
+
+
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=RishabhJain2404&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhJain2404&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+</p>
+ 
+
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=RishabhJain2404&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+
 
 # ✅ My projects
 
