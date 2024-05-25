@@ -43,8 +43,8 @@
 
 
 <p align="center">
-  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=RishabhJain2404&show_icons=true&theme=vision-friendly-dark">
-  <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhJain2404&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+  <img width="450" height="200" src="https://github-readme-stats.vercel.app/api?username=RishabhJain2404&show_icons=true&theme=vision-friendly-dark">
+  <img width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhJain2404&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
  
 
